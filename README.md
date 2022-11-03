@@ -3,4 +3,4 @@ This is the code repository for Vaccine Fairness &amp; Equity, a project dedicat
 
 ## Link to the demo of our product: https://vaccine4all.herokuapp.com/
 
-## Link to the video of our product: https://www.youtube.com/NqpXDhtwrMk
+## Link to the video of our product: https://youtu.be/NqpXDhtwrMk
